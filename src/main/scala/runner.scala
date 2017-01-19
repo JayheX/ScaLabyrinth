@@ -1,6 +1,5 @@
-object runner extends App {
-  val hei = new HelloWorld()
+/** This object will be responsible for actually running the game, once the codebase is ready **/
 
-  val moi = hei.getCount()
-  println(moi)
+object runner extends App {
+  
 }
